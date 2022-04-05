@@ -14,3 +14,6 @@ let arrCopy = Object.assign([], arr);
 arrCopy.splice(1,1,'newAbc');
 console.log(arrCopy);
 console.log(arr);
+
+// altro codice del
+console.log("Cioao");
